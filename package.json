@@ -1,0 +1,20 @@
+{
+  "name": "unosquare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "geckodriver": "^2.0.4",
+    "handlebars": "^4.7.7",
+    "nightwatch": "^1.7.13",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "selenium-server": "^3.141.59"
+  }
+}
